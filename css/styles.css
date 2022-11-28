@@ -833,10 +833,25 @@ color: #0582CA;
 #pricing ul.pricing {
   list-style: none;
   padding: 0;
-  margin: 70px 0 30px;
-  border: 1px solid #D0D0D0; 
+ 
+  
   padding: 15px;
   text-align: center;
+  
+  
+}
+
+.borde{
+  border: 1px solid #D0D0D0; 
+  margin-top: 15px;
+  margin-bottom: 15px;
+
+}
+.btn22{
+  
+display: flex;
+justify-content: center;
+margin-bottom: 20px;
 }
 
 #pricing ul.pricing2 {
@@ -846,7 +861,7 @@ color: #0582CA;
   border: 1px solid #D0D0D0; 
   padding: 15px;
   text-align: center;
-  height: 1050px;
+
 }
 
 #pricing ul.pricing li, ul.pricing2 li  {
